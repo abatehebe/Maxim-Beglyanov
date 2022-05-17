@@ -1,5 +1,11 @@
-### Hi there 👋
+### Приветствую 👋
 
+Я пишу на Python и SQL и создаю ботов в дискорде
+
+- Сейчас я работаю над [MorjWPG](https://github.com/Maxim-Beglyanov/MorjWPG)
+
+### Соцсети
+Я есть в Discord(Mega_Salo#7157) и в [Telegram](https://t.me/MegaSalo)
 <!--
 **Maxim-Beglyanov/Maxim-Beglyanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
