@@ -2,8 +2,6 @@
 
 Я пишу на Python и SQL и создаю ботов в дискорде
 
-- Сейчас я работаю над [MorjWPG](https://github.com/Maxim-Beglyanov/MorjWPG)
-
 ### Соцсети
 Я есть в Discord(Mega_Salo#7157) и в [Telegram](https://t.me/MegaSalo)
 <!--
